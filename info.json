@@ -1,0 +1,12 @@
+{
+  "name": "Vaynexa Token",
+  "symbol": "VAYNEXA",
+  "type": "ERC20",
+  "decimals": 3,
+  "description": "Token experimental en la red Sepolia.",
+  "website": "https://vaynexa.io",
+  "logo": "https://lh6.googleusercontent.com/yN8CMOBY_8o0csI1RcR2sHoPECb_IU5pl5iwvVatfHIU6Nf4T9x6V86gEQ0MRxKeKWwHhUpopsOYka1FfPBX_dNrRJd97yj0x2SeaHL-PYcXORlcdhPs3oohSw_4jKNA8yDUm8LzGQ=w1280",
+  "explorer": "https://sepolia.etherscan.io/token/0xAe440AC6fE408c2f31E6F30699FF2e251e39637f",
+  "status": "active",
+  "id": "0xAe440AC6fE408c2f31E6F30699FF2e251e39637f"
+}
